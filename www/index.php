@@ -45,7 +45,7 @@ echo $contents; } ?>
 
 <p>
 More info at 
-<a href="http://www.biostat.ucsf.edu">http://www.biostat.ucsf.edu</a><p>
+<a href="http://www.biostat.ucsf.edu/sen/qtldesign-software/">http://www.biostat.ucsf.edu/sen/qtldesign-software/</a>.<p>
 
 </body>
 </html>
