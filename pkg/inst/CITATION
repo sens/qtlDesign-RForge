@@ -2,9 +2,9 @@ citHeader("To cite R/qtlDesign in publications use:")
 
 citEntry(entry="article",
          title = "R/qtlDesign: Inbred line cross experimental design",
-         author = personList(person("Sen", "Saunak"),
-                             person("Satagopan", "Jaya", "M."),
-			     person("Broman", "Karl", "W."),
+         author = personList(person("Saunak", "Sen"),
+                             person("Jaya", "Satagopan", "M."),
+			     person("Karl", "Broman", "W."),
 			     person("Gary", "Churchill", "A.")),
          journal = "Mammalian Genome",			     
          year = 2007,
