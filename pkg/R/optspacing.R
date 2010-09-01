@@ -33,7 +33,7 @@ function(cost,G=NULL,sel.frac=NULL)
         names(tmp) <- c("Marker spacing (cM)", "Selection fraction")
         tmp
       }
-  }
+}
 
 "optspacing.f2" <-
 function(cost,G=NULL,sel.frac=NULL)
