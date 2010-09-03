@@ -1,7 +1,7 @@
 Package: qtlDesign
 Title: Design of QTL experiments
-Version: 0.94
-Date: 02 September 2010
+Version: 0.941
+Date: 03 September 2010
 Author: Saunak Sen, Jaya Satagopan, Karl Broman, and Gary Churchill
 Description: Tools for the design of QTL experiments
 Maintainer: Saunak Sen <sen@biostat.ucsf.edu>
