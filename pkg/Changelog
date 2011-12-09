@@ -48,3 +48,11 @@
 0.92 -> 0.93
      - Added citation information.
      - Fixed manpage formatting.
+0.93 -> 0.94
+     - Changed license to generic GPL.
+     - Added citation information.
+     - Bug fix in optspacing().
+0.94 -> 0.941
+     - Deleted duplicate CITATION file.
+0.941 -> 0.95
+     - Added NAMESPACE file to be R 2.14 compliant.
