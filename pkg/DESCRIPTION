@@ -1,9 +1,10 @@
 Package: qtlDesign
-Title: Design of QTL experiments
+Title: Design of QTL Experiments
 Version: 0.951
-Date: 20 March 2024
+Date: 2024-03-20
 Author: Saunak Sen, Jaya Satagopan, Karl Broman, and Gary Churchill
-Description: Tools for the design of QTL experiments
+Description: Tools for the design of QTL experiments.
 Maintainer: Saunak Sen <sen@uthsc.edu>
-License: GPL (http://www.gnu.org/copyleft/gpl.html)
+License: GPL
 URL: http://www.senresearch.org
+Suggests: qtl

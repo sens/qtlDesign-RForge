@@ -1,4 +1,6 @@
-
+# imported functions
+importFrom("stats", "dnorm", "optim", "optimize", "pchisq", "pnorm",
+           "qexp", "qnorm", "uniroot")
 
 # export functions
 export(ci.length)
