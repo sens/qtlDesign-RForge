@@ -1,6 +1,6 @@
 "version.qtlDesign" <-
 function()
   {
-    0.95
+    0.952
   }
 

@@ -58,3 +58,9 @@
      - Added NAMESPACE file to be R 2.14 compliant.
 0.95 -> 0.951
      - Updated email address.
+0.951 -> 0.952
+     Thanks for Karl Broman for help with these updates.
+     - Fixed DESCRIPTION file, suggests qtl package.
+     - Fixed CITATION file.
+     - In thresh.R, spell out all arguments to pchisq()
+     - In NAMESPACE, dd importFrom() for various stats functions
