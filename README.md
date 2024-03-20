@@ -1,4 +1,4 @@
-# R/qtlDesign: R-Forge GIT Mirror
+# R/qtlDesign: R-Forge Git Mirror
 
 This is a Git repository mirroring the Subversion (SVN) repository for
 the [qtlDesign R-Forge
@@ -22,7 +22,10 @@ The developmental version of the package can be installed using:
 The project is in maintenance mode, i.e. only small improvements and
 bug fixes are planned in the near future.
 
+Since this repository uses the Git conversion of the parent SVN repo,
+it may be useful to see [how to work with
+git-svn](https://gist.github.com/rickyah/7bc2de953ce42ba07116).
+
 <hr>
-Saunak Sen  
-2024-03-20
+Saunak Sen | 2024-03-20
 
