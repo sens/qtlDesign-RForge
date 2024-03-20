@@ -44,8 +44,8 @@ echo $contents; } ?>
 <!-- end of project description -->
 
 <p>
-More info at 
-<a href="https://bitbucket.org/linen/qtldesign/">https://bitbucket.org/linen/qtldesign/</a>.<p>
+GIT mirror of the SVN repository is here:
+<a href="https://github.com/sens/qtlDesign-RForge/">https://github.com/sens/qtlDesign-RForge/</a>.<p>
 
 </body>
 </html>
