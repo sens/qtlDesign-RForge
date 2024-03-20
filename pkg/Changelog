@@ -56,3 +56,5 @@
      - Deleted duplicate CITATION file.
 0.941 -> 0.95
      - Added NAMESPACE file to be R 2.14 compliant.
+0.95 -> 0.951
+     - Updated email address.
