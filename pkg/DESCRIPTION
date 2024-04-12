@@ -1,10 +1,21 @@
 Package: qtlDesign
 Title: Design of QTL Experiments
 Version: 0.952
-Date: 2024-03-20
+Date: 2024-04-12
 Author: Saunak Sen, Jaya Satagopan, Karl Broman, and Gary Churchill
-Description: Tools for the design of QTL experiments.
+Description: Design of QTL (quantitative trait locus) experiments
+  involves choosing which strains to cross, the type of cross,
+  genotyping strategies, phenotyping strategies, and the number of
+  progeny to raise and phenotype. This package provides tools to help
+  make such choices.
+  Sen et al. (2007) <doi:10.1007/s00335-006-0090-y>.
 Maintainer: Saunak Sen <sen@uthsc.edu>
-License: GPL
+Authors@R:
+c(person("Saunak","Sen",role=c("aut","cre"),email="sen@uthsc.edu"),
+  person("Jaya","Satagopan",role="ctb"),
+  person("Karl","Broman",role="ctb"),
+  person("Gary","Churchill",role="ctb"),
+  person("Brian","Yandell",role="ctb"))
+License: GPL-3
 URL: http://www.senresearch.org
 Suggests: qtl
