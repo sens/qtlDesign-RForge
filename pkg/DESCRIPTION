@@ -1,5 +1,5 @@
 Package: qtlDesign
-Title: Design of QTL Experiments
+Title: Design of QTL (Quantitative Trait Locus) Experiments
 Version: 0.953
 Date: 2024-04-12
 Author: Saunak Sen, Jaya Satagopan, Karl Broman, and Gary Churchill
@@ -9,9 +9,9 @@ Description: Design of QTL (quantitative trait locus) experiments
   progeny to raise and phenotype. This package provides tools to help
   make such choices.
   Sen et al. (2007) <doi:10.1007/s00335-006-0090-y>.
-Maintainer: Saunak Sen <sen@uthsc.edu>
+Maintainer: Saunak Sen <sen@uthsc.edu>  
 Authors@R:
-c(person("Saunak","Sen",role=c("aut","cre"),email="sen@uthsc.edu"),
+  c(person("Saunak","Sen",role=c("aut","cre"),email="sen@uthsc.edu"),
   person("Jaya","Satagopan",role="ctb"),
   person("Karl","Broman",role="ctb"),
   person("Gary","Churchill",role="ctb"),
